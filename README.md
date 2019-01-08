@@ -32,5 +32,4 @@ If you are new to Anaconda, Jupyter Notebooks, Python, or want help setting up t
 ## Thank you!
 Special thanks to Aaron Pulver and his talented team. To see more information on the automation of workforce through Python, see this [GitHub repository](https://github.com/Esri/workforce-scripts). 
 <br>
-# Workforce
-# Workforce
+
