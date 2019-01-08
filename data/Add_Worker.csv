@@ -1,0 +1,10 @@
+name,user_id,status,title,role,Asset_1,Asset_2,Asset_3,Asset_4,Asset_5,Asset_6,Asset_7,Asset_8,Asset_9,Asset_10,Asset_11
+Murphy Lee,xx_python_1,not_working,Park Ranger,worker,Tourist Amenity,Road,Sign,Vehicles,Culvert,Gate,Fence Post,,,,
+Ski Mask The Slump God,test_user_1,not_working,Senior Park Ecologist,worker,Culvert,Bridge,Sign,Power Generator,Tourist Amenity,Road,Restroom,,,,
+Saba,test_user_2,not_working,Ecologist,worker,Vehicles,Tourist Amenity,Road,Pavement,Sign,Power Generator,,,,,
+Smino,test_user_3,,Park Manager,dispatcher,,,,,,,,,,,
+Nas,test_user_4,not_working,GIS Analyst,worker,Bridge,Sign,Gate,Fence Post,Tourist Amenity,Road,,,,,
+J. Cole,test_user_5,not_working,Seasonal Park Ranger,worker,Solar Panel,Culvert,Gate,Tourist Amenity,Park Bench,,,,,,
+JID,test_user_6,not_working,Park Ranger,worker,Utility Pole,Fence Post,Bridge,Well,Gate,Overlook,Tourist Amenity,,,,
+EARTHGANG,test_user_7,,Director of Field Operations,dispatcher,,,,,,,,,,,
+Coleman Shepard,test_user_8,not_working,Intern,worker,Power Generator,Road,Vehicle,Solar Panel,Culvert,Coffee Maker,Restroom,,,,
